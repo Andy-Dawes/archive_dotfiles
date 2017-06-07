@@ -1,0 +1,80 @@
+# =======================================
+# file:    ~/.config/newsbeuter/config
+# author:  Andy Dawes
+# =======================================
+
+auto-reload yes
+browser qutebrowser
+cleanup-on-quit yes
+download-path "/home/heedypo/Downloads/podcasts"
+feed-sort-order none
+max-downloads 4
+notify-always no
+#notify-format "newsbeuter: %n unread articles within %f unread feeds"
+#notify-program notify-send
+notify-xterm no
+notify-screen no
+player mplayer
+refresh-on-startup yes
+reload-time 20
+reload-threads 2
+show-read-articles yes
+show-read-feeds yes
+
+
+# hide articles matching: ---------------------------------------------
+
+ignore-article "*" "title =~ \"Sponsor\""
+ignore-article "*" "title =~ \"Advertisement\""
+ignore-mode "display"
+
+
+# formatting and colorization ------------------------------------------
+
+# general
+
+color listnormal        color7   default
+color listnormal_unread color7   default
+color listfocus         color174 default
+color listfocus_unread  color174 default
+color info              color244 default
+color background        color244 default
+color article           color244 default
+
+# highlights
+
+highlight article "^Feed:.*" color174 default
+highlight article "^Title:.*" color174 default
+highlight article "^Author:.*" color174 default
+highlight article "^Link:.*" color7 default
+highlight article "^Date:.*" color7 default
+highlight article "\\[[0-9][0-9]*\\]" color109 default
+highlight article "\\[image [0-9][0-9]*\\]" color109 default
+highlight article "\\[embedded flash: [0-9][0-9]*\\]" color109 default
+
+# limit width
+text-width 100
+
+# Keybindings ---------------------------------------------------------
+
+bind-key n down feedlist
+bind-key e up feedlist
+bind-key n next articlelist
+bind-key e prev articlelist
+bind-key N next-feed articlelist
+bind-key E prev-feed articlelist
+bind-key n down article
+bind-key e up article
+bind-key a enqueue
+
+
+# bookmarks -----------------------------------------------------------
+
+bookmark-cmd ~/.newsbeuter/bookmark.sh
+bookmark-interactive no
+bookmark-autopilot yes
+
+# Misc ----------------------------------------------------------------
+
+confirm-exit no
+cleanup-on-quit yes

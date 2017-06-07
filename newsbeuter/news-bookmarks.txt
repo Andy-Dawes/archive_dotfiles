@@ -1,0 +1,23 @@
+-e https://blog.codinghorror.com/password-rules-are-bullshit/	Password Rules Are Bullshit	
+-e http://pragmaticemacs.com/emacs/speedy-sorting-in-dired-with-dired-quick-sort/	Speedy sorting in dired with dired-quick-sort	
+-e https://www.unixmen.com/install-and-configure-nextcloud-on-ubuntu-16-04-with-apache/	How to install and configure Nextcloud on Ubuntu 16.04 with Apache	
+-e https://www.unixmen.com/install-django-ubuntu-novice-users/	How to install Django on Ubuntu (the right way) for novice users	
+-e https://danluu.com/programming-books/	Programming books you might want to consider reading	
+-e https://danluu.com/learning-to-program/	How I learned to program	
+-e https://danluu.com/programming-blogs/	Modest list of programming blogs	
+-e https://codewords.recurse.com/issues/seven/data-driven-literary-analysis	Data driven literary analysis	
+-e https://codewords.recurse.com/issues/six/telling-stories-with-data-using-the-grammar-of-graphics	Telling stories with data using the grammar of graphics	
+-e https://codewords.recurse.com/issues/six/image-processing-101	Image Processing 101	
+-e http://akaptur.github.com/blog/2015/10/10/effective-learning-strategies-for-programmers/	Effective Learning Strategies for Programmers	
+-e https://www.snellman.net/blog/archive/2017-04-17-xxx-fixme/	The origins of XXX as FIXME	
+-e https://maryrosecook.com/blog/post/git-from-the-inside-out-talk	Git from the inside out talk	
+-e https://www.unixmen.com/how-to-download-youtube-videos-pytube/	Pytube: How to Download Youtube Videos with this Python Tool	
+-e http://cestlaz.github.io/posts/using-emacs-33-projectile-jump/	Using Emacs - 33 - projectile, dumb-jump	
+-e https://www.unixmen.com/how-to-download-youtube-videos-pytube/	Pytube: How to Download Youtube Videos with this Python Tool	
+-e https://opensource.com/article/17/5/4-terminal-apps	4 terminal applications with great command-line UIs	
+-e https://jvns.ca/blog/2017/04/23/the-fish-shell-is-awesome/	The fish shell is awesome	
+-e http://www.spiegel.de/international/world/trump-100-days-the-erosion-of-american-democracy-a-1145294.html#ref=rss	100 Days of Chaos: Donald Trump and the Erosion of American Democracy	
+-e http://www.spiegel.de/international/world/deadly-game-donald-trump-and-kim-jong-un-risk-nuclear-war-a-1144745.html#ref=rss	Deadly Game: Donald Trump and Kim Jong Un Risk Nuclear War	
+-e http://www.spiegel.de/international/social-design-award-2017-wanted-good-ideas-for-green-city-oases-a-1144309.html#ref=rss	Social Design Award 2017: Wanted: Good Ideas for Green City Oases!	
+-e http://www.spiegel.de/international/world/fake-news-trump-wages-war-on-traditional-media-a-1140173.html#ref=rss	A Week with the White House Press Corps: Inside Trump's War on the Traditional Media	
+-e http://www.spiegel.de/international/world/eight-myths-about-migration-and-refugees-explained-a-1138053.html#ref=rss	Myths of Migration: Much of What We Think We Know Is Wrong	
