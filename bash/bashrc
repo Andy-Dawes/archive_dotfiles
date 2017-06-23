@@ -106,6 +106,17 @@ alias rad="~/Development/radio/radio.sh"
 alias pudb='python -m pudb'
 alias pudb3='python3 -m pudb3'
 
+# Git
+alias pik='git cherry-pick'
+alias pikab='git cherry-pick --abort'
+alias gaa='git add --all'
+alias stat='git status'
+alias cmt='git commit'
+alias psh='git push'
+alias rvt='git revert'
+alias cln='git checkout -- . && git clean -dfq'
+
+
 # d) Screenprint
 alias pic="scrot -d 5"
 
