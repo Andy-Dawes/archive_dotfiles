@@ -93,12 +93,9 @@ https://sidehustleschool.com/ Ha.Business
 
 ## UK ------------------------------------------------------
 http://feeds.guardian.co.uk/theguardian/politics/rss I.UK-News
-http://feeds.bbci.co.uk/news/uk/rss.xml# I.UK-News
-http://feeds.bbci.co.uk/news/politics/rss.xml# I.UK-News
 
 ## World --------------------------------------------------
 http://www.spiegel.de/schlagzeilen/rss/0,5291,676,00.xml J.World-News
-http://feeds.bbci.co.uk/news/world/rss.xml J.World-News
 
 ## Opinion ============================================================
 http://www.private-eye.co.uk/rss/rss.php O.Opinion
@@ -107,18 +104,13 @@ http://www.private-eye.co.uk/rss/rss.php O.Opinion
 http://feeds.feedburner.com/GamasutraNews P.Games
 http://feeds.feedburner.com/GamasutraIndependentNews P.Games
 http://www.gamasutra.com/blogs/rss-expert/ P.Games
-http://feeds.feedburner.com/IndependentGaming P.Games
-https://www.videogamer.com/rss/allupdates.xml P.Games
 http://feeds.feedburner.com/RockPaperShotgun P.Games
-https://www.tigsource.com/feed/ P.Games
 http://ttm.punchingrobots.club/index.php/feed/ P.Games
-https://www.pcgamesn.com/mainrss.xml P.Games
 
 ## Technology =========================================================
 
 ## Technology-emacs
 http://planet.emacsen.org/atom.xml Q.Technology-Emacs
-http://pragmaticemacs.com/feed/ Q.Technology-Emacs
 http://sachachua.com/blog/feed/ Q.Technology-Emacs
 http://ergoemacs.org/emacs/blog.xml Q.Technology-Emacs
 http://endlessparentheses.com/atom.xml Q.Technology-Emacs
@@ -127,26 +119,19 @@ http://cestlaz.github.io/rss.xml Q.Technology-Emacs
 http://emacsninja.com/emacs.atom Q.Technology-Emacs
 http://emacsredux.com/atom.xml Q.Technology-Emacs
 http://www.masteringemacs.org/feed/ Q.Technology-Emacs
-http://s-expressions.com/feed/ Q.Technology-Emacs
-https://opensource.com/feed Q.Technology-Emacs
 
 ## Technology-linux ----------------------------------------
 http://www.manlug.org/?feed=rss2 R.Technology-Linux
 http://feeds.feedburner.com/unixmenhowtos R.Technology-Linux
-http://www.phoronix.com/rss.php R.Technology-Linux
 http://feeds.feedburner.com/mylinuxrig R.Technology-Linux
-http://www.linux-magazine.com/rss/feed/lmi_news R.Technology-Linux
 
 ## Technology-programming ----------------------------------
 http://psy-lob-saw.blogspot.com/feeds/posts/default S.Technology-programming
-http://vanillajava.blogspot.de/feeds/posts/default S.Technology-programming
-http://classicprogrammerpaintings.tumblr.com/rss S.Technology-programming
 
 ## Science ============================================================
 
 ## News ----------------------------------------------------
 http://www.newscientist.com/feed.ns?index=online-news T.Science
-http://www.sciam.com/xml/sciam.xml T.Science
 
 ## Cycling ============================================================
 
