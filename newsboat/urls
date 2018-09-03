@@ -1,0 +1,86 @@
+##=====================================================================
+## RSS News Feeds
+##=====================================================================
+
+# News ===============================================================
+
+## UK ------------------------------------------------------
+http://feeds.guardian.co.uk/theguardian/politics/rss I.UK-News
+
+## World --------------------------------------------------
+http://www.spiegel.de/schlagzeilen/rss/0,5291,676,00.xml J.World-News
+
+## Opinion ============================================================
+http://www.private-eye.co.uk/rss/rss.php O.Opinion
+
+## Games ==============================================================
+http://feeds.feedburner.com/GamasutraNews P.Games
+http://feeds.feedburner.com/GamasutraIndependentNews P.Games
+http://www.gamasutra.com/blogs/rss-expert/ P.Games
+http://feeds.feedburner.com/RockPaperShotgun P.Games
+http://ttm.punchingrobots.club/index.php/feed/ P.Games
+
+## Technology =========================================================
+
+## Technology-emacs
+http://planet.emacsen.org/atom.xml Q.Technology-Emacs
+http://sachachua.com/blog/feed/ Q.Technology-Emacs
+http://ergoemacs.org/emacs/blog.xml Q.Technology-Emacs
+http://endlessparentheses.com/atom.xml Q.Technology-Emacs
+http://emacs-fu.blogspot.com/feeds/posts/default Q.Technology-Emacs
+http://cestlaz.github.io/rss.xml Q.Technology-Emacs
+http://emacsninja.com/emacs.atom Q.Technology-Emacs
+http://emacsredux.com/atom.xml Q.Technology-Emacs
+http://www.masteringemacs.org/feed/ Q.Technology-Emacs
+
+## Technology-linux ----------------------------------------
+http://www.manlug.org/?feed=rss2 R.Technology-Linux
+http://feeds.feedburner.com/unixmenhowtos R.Technology-Linux
+http://feeds.feedburner.com/mylinuxrig R.Technology-Linux
+
+## Technology-programming ----------------------------------
+http://psy-lob-saw.blogspot.com/feeds/posts/default S.Technology-programming
+
+## Science ============================================================
+
+## News ----------------------------------------------------
+http://www.newscientist.com/feed.ns?index=online-news T.Science
+
+## Cycling ============================================================
+
+## Cycling News -------------------------------------------
+http://rssfeeds.usatoday.com/UsatodayCycling-TopStories U.Cycling
+
+## Cycling Blogs ------------------------------------------
+http://bikesnobnyc.blogspot.com/feeds/posts/default?alt=rss V.Cycling
+
+## Sports =============================================================
+
+## Rugby ---------------------------------------------------
+http://www.telegraph.co.uk/sport/rugbyunion/rss W.Sports
+
+## Chess ---------------------------------------------------
+http://www.telegraph.co.uk/culture/chess/rss W.Sports
+
+## Backpacking =========================================================
+http://blogpackinglight.wordpress.com/feed/ X.Backpacking
+http://www.christownsendoutdoors.com/feeds/posts/default?alt=rss X.Backpacking
+
+## Vegan ==============================================================
+http://theveganronin.wordpress.com/feed/ Y.Vegan
+http://www.cestlavegan.com/feed/ Y.Vegan
+http://epicureanvegan.com/feed/ Y.Vegan
+http://feeds.feedburner.com/FatfreeVeganBlog Y.Vegan
+http://theppk.com/blog/feed/ Y.Vegan
+http://feeds.feedburner.com/blogspot/gmob Y.Vegan
+
+## Languages ==========================================================
+
+## Spanish -------------------------------------------------
+http://estaticos04.cache.el-mundo.net/elmundo/rss/portada.xml Z.Languages
+
+## German --------------------------------------------------
+
+## French --------------------------------------------------
+http://www.lequipe.fr/Xml/Cyclisme/Titres/actu_rss.xml Z.Languages
+http://rss.lemonde.fr/c/205/f/3050/index.rss Z.Languages

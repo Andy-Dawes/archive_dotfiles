@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ArgumentParser	i3/disable-standby-fs.py	/^from argparse import ArgumentParser$/;"	i
+__git_eread	.git-prompt.sh	/^__git_eread ()$/;"	f
+__git_eread	git/.git-prompt.sh	/^__git_eread ()$/;"	f
+__git_eread	git/git-prompt.sh	/^__git_eread ()$/;"	f
+__git_ps1	.git-prompt.sh	/^__git_ps1 ()$/;"	f
+__git_ps1	git/.git-prompt.sh	/^__git_ps1 ()$/;"	f
+__git_ps1	git/git-prompt.sh	/^__git_ps1 ()$/;"	f
+__git_ps1_colorize_gitstring	.git-prompt.sh	/^__git_ps1_colorize_gitstring ()$/;"	f
+__git_ps1_colorize_gitstring	git/.git-prompt.sh	/^__git_ps1_colorize_gitstring ()$/;"	f
+__git_ps1_colorize_gitstring	git/git-prompt.sh	/^__git_ps1_colorize_gitstring ()$/;"	f
+__git_ps1_show_upstream	.git-prompt.sh	/^__git_ps1_show_upstream ()$/;"	f
+__git_ps1_show_upstream	git/.git-prompt.sh	/^__git_ps1_show_upstream ()$/;"	f
+__git_ps1_show_upstream	git/git-prompt.sh	/^__git_ps1_show_upstream ()$/;"	f
+args	i3/disable-standby-fs.py	/^args = parser.parse_args()$/;"	v
+call	i3/disable-standby-fs.py	/^from subprocess import call$/;"	i
+i3	i3/disable-standby-fs.py	/^i3 = i3ipc.Connection()$/;"	v
+i3ipc	i3/disable-standby-fs.py	/^import i3ipc$/;"	i
+on_fullscreen_mode	i3/disable-standby-fs.py	/^def on_fullscreen_mode(i3, e):$/;"	f
+on_window_close	i3/disable-standby-fs.py	/^def on_window_close(i3, e):$/;"	f
+parser	i3/disable-standby-fs.py	/^parser = ArgumentParser(prog='disable-standby-fs',$/;"	v
